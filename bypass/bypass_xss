@@ -1,4 +1,4 @@
-<img src=a onerror="alert(1)">
+<img src=a onerror="alert(1)">  != <Img src=a onerror="alert(1)">
 <video src=a onerror="alert(1)">
 <h1 onclick="alert(1)">click no xss</h1>
 <body onload="alert(5)">
