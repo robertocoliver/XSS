@@ -1,0 +1,24 @@
+https://www.urlencoder.org/
+"<" = %3C
+">" = %3E
+"=" = %3D
+"(" = %28 
+")" = %29
+";" = %3B
+"/" = %2F
+"'" = %27
+
+<script>alert('test');</script> = %3Cscript%3Ealert%28%27test%27%29%3B%3C%2Fscript%3E
+
+Double encoding 
+% = %25
+%3C = %253C
+%3E = %253E
+%3D = %253D
+%28 = %2528 
+%29 = %2529
+%3B = %253B
+%2F = %252F
+%27 = %2527
+
+<script>alert('test');</script> = %253Cscript%253Ealert%2528%2527test%2527%2529%253B%253C%252Fscript%253E
