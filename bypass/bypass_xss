@@ -3,3 +3,4 @@
 <h1 onclick="alert(1)">click no xss</h1>
 <body onload="alert(5)">
 <img/src=a onerror="prompt(1)">
+<marquee><h1>HTML</h1></marquee><script>alert('XSS')</script>
