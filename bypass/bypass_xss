@@ -4,3 +4,5 @@
 <body onload="alert(5)">
 <img/src=a onerror="prompt(1)">
 <marquee><h1>HTML</h1></marquee><script>alert('XSS')</script>
+<a href='javascript:alert(')'>click</a>
+<input>
