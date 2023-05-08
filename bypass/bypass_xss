@@ -7,5 +7,5 @@
 <a href='javascript:alert(')'>click</a>
 <input>
 <script>teste</script>iframe src="javascript:alert('xss')">teste
-<script<script>xss</script>
+<script<script>xss</script>>
 <script>teste</script>iframe src="javascript:alert('xss')">teste
