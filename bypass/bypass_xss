@@ -9,3 +9,4 @@
 <<script>teste</script>iframe src="javascript:alert('xss')">teste
 <script<script>xss</script>>
 <script>teste</script>iframe src="javascript:alert('xss')">teste
+<<img src=a onerror="alert(1)">iframe src="javascript:alert('xss');">
