@@ -6,6 +6,6 @@
 <marquee><h1>HTML</h1></marquee><script>alert('XSS')</script>
 <a href='javascript:alert(')'>click</a>
 <input>
-<script>teste</script>iframe src="javascript:alert('xss')">teste
+<<script>teste</script>iframe src="javascript:alert('xss')">teste
 <script<script>xss</script>>
 <script>teste</script>iframe src="javascript:alert('xss')">teste
